@@ -1,0 +1,16 @@
+{
+  "targets": [
+    {
+      "platform": "youtube",
+      "handle": "mrbeast6000"
+    }
+  ],
+  "includeHistory": true,
+  "maxItems": 1,
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}
